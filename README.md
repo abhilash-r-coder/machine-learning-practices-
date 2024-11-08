@@ -1,4 +1,4 @@
 # machine-learning-practices-
-Logistic Regression
-Support Vector Machine
-Random Forest
+1.Logistic Regression
+2.Support Vector Machine
+3.Random Forest
